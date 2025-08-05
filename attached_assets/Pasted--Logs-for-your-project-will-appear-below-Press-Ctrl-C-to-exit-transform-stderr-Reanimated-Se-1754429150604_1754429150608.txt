@@ -1,0 +1,14 @@
+
+Logs for your project will appear below. Press Ctrl+C to exit.
+transform[stderr]: [Reanimated] Seems like you are using a Babel plugin `react-native-reanimated/plugin`. It was moved to `react-native-worklets` package. Please use `react-native-worklets/plugin` instead.     
+transform[stderr]: [Reanimated] Seems like you are using a Babel plugin `react-native-reanimated/plugin`. It was moved to `react-native-worklets` package. Please use `react-native-worklets/plugin` instead.     
+transform[stderr]: [Reanimated] Seems like you are using a Babel plugin `react-native-reanimated/plugin`. It was moved to `react-native-worklets` package. Please use `react-native-worklets/plugin` instead.     
+transform[stderr]: [Reanimated] Seems like you are using a Babel plugin `react-native-reanimated/plugin`. It was moved to `react-native-worklets` package. Please use `react-native-worklets/plugin` instead.     
+transform[stderr]: [Reanimated] Seems like you are using a Babel plugin `react-native-reanimated/plugin`. It was moved to `react-native-worklets` package. Please use `react-native-worklets/plugin` instead.     
+transform[stderr]: [Reanimated] Seems like you are using a Babel plugin `react-native-reanimated/plugin`. It was moved to `react-native-worklets` package. Please use `react-native-worklets/plugin` instead.
+transform[stderr]: [Reanimated] Seems like you are using a Babel plugin `react-native-reanimated/plugin`. It was moved to `react-native-worklets` package. Please use `react-native-worklets/plugin` instead.     
+transform[stderr]: [Reanimated] Seems like you are using a Babel plugin `react-native-reanimated/plugin`. It was moved to `react-native-worklets` package. Please use `react-native-worklets/plugin` instead.
+Android Bundling failed 15796ms (D:\qaaq\QaaqConnect30\mobile-app\node_modules\expo\AppEntry.js)
+Unable to resolve "@react-native-async-storage/async-storage" from "src\contexts\AuthContext.tsx"        
+Android Bundling failed 24744ms (D:\qaaq\QaaqConnect30\mobile-app\node_modules\expo\AppEntry.js)
+Unable to resolve "@react-native-async-storage/async-storage" from "src\contexts\AuthContext.tsx"        
